@@ -45,7 +45,7 @@
 <h1>Favourite Tools</h1>
 <div style="display:flex">
 <img alt="" height="60px" width="60px"  src="assets/tech/WebStorm.svg" />
-<img alt="" height="60px" width="60px"  src="assets/tech/VScode.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/VSCode.svg" />
 <img alt="" height="60px" width="60px"  src="assets/tech/Postman.svg" />
 <img alt="" height="60px" width="60px"  src="assets/tech/Vercel.svg" />
 <img alt="" height="60px" width="60px"  src="assets/tech/Git.svg" />
