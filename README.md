@@ -51,3 +51,56 @@
 <img alt="" height="60px" width="60px"  src="assets/tech/Git.svg" />
 <img alt="" height="60px" width="60px"  src="assets/tech/Figma.svg" />
 </div>
+
+<br>
+<h1>Open Source Contribution Going:</h1>
+<table>
+<tbody>
+<tr>
+<td> <div style="cursor:pointer"  href="https://github.com/dev-naimur/demo">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-naimur&repo=demo&theme=dark)
+
+</div>
+
+<td>
+<div style="cursor:pointer"  href="https://github.com/dev-naimur/demo">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-naimur&repo=demo&theme=dark)
+
+</div>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td>
+<div style="cursor:pointer"  href="https://github.com/dev-naimur/demo">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-naimur&repo=demo&theme=dark)
+
+</div>
+
+</td>
+
+<td>
+<div style="cursor:pointer"  href="https://github.com/dev-naimur/demo">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-naimur&repo=demo&theme=dark)
+
+</div>
+</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h1>About</h1>
+👋 Hi, I'm Naimur Rahman
+
+I'm a **Web Developer** skilled in **HTML, CSS, JavaScript & MySQL**, currently learning **React.js and Django**. I also have **2 years of professional experience as a Coordinator at an IT Training Institute**. Passionate about building modern web applications and continuously improving my development skills.
+
+
