@@ -32,10 +32,10 @@
 <div style="display:flex">
   <img alt="" height="60px" width="60px"   src="assets/tech/Python.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/Django.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Javascript.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/JavaScript.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/React.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Html.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Css.svg"/> <br>
+  <img alt="" height="60px" width="60px"   src="assets/tech/HTML.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/CSS.svg"/> 
   <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/Bootstrap.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/Git.svg"/>
