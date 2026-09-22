@@ -27,3 +27,17 @@
 <img src="https://streak-stats.demolab.com?user=dev-naimur&theme=highcontrast&hide_border=true&border_radius=4.3&card_width=600" alt="GitHub Streak">
 
 </div>
+
+<h1>Love to Code</h1>
+<div style="display:flex">
+  <img alt="" height="60px" width="60px"   src="assets/tech/Python.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Django.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Javascript.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/React.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Html.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Css.svg"/> <br>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Bootstrap.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Git.svg"/>
+ 
+</div>
