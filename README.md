@@ -121,3 +121,29 @@ height="180" width="400"
 
 
 </div>
+
+
+<table>
+<tbody>
+
+<tr>
+<td>
+  <img
+src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=dev-naimur&show_icons=true&theme=dark"
+height="180" width="400"
+/>
+
+</td>
+
+<td>
+
+<img
+src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=dev-naimur&theme=dark"
+height="180" width="400"
+/>
+
+</td>
+</tr>
+
+</tbody>
+</table>
