@@ -139,7 +139,7 @@ height="180" width="400"
 
 <img
 src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=dev-naimur&theme=dark"
-height="180" width="400"
+height="auto" width="400"
 />
 
 </td>
