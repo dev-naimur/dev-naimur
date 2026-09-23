@@ -105,22 +105,7 @@ I'm a **Web Developer** skilled in **HTML, CSS, JavaScript & MySQL**, currently 
 
 <h2>📊 GitHub Statistics</h2>
 
-<div style="display:flex">
 
-<img
-src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=dev-naimur&show_icons=true&theme=dark"
-height="180" width="400"
-/>
-
-<img
-src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=dev-naimur&theme=dark"
-height="180" width="400"
-/>
-
-<br><br>
-
-
-</div>
 
 
 <table>
