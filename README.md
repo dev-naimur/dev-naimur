@@ -130,7 +130,7 @@ height="180" width="400"
 <td>
   <img
 src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=dev-naimur&show_icons=true&theme=dark"
-height="180" width="400"
+height="auto" width="400"
 />
 
 </td>
