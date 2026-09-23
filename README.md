@@ -88,8 +88,7 @@
 <td>
 <div style="cursor:pointer"  href="https://github.com/dev-naimur/demo">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-naimur&repo=demo&theme=dark)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-naimur)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </td>
 </tr>
@@ -104,3 +103,21 @@
 I'm a **Web Developer** skilled in **HTML, CSS, JavaScript & MySQL**, currently learning **React.js and Django**. I also have **2 years of professional experience as a Coordinator at an IT Training Institute**. Passionate about building modern web applications and continuously improving my development skills.
 
 
+<h2>📊 GitHub Statistics</h2>
+
+<div>
+
+<img
+src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=dev-naimur&show_icons=true&theme=dark"
+height="180"
+/>
+
+<img
+src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=dev-naimur&theme=dark"
+height="180"
+/>
+
+<br><br>
+
+
+</div>
